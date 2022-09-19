@@ -20,7 +20,7 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 ## [xhyabunny api](https://xhyabunny.github.io/the404) - Status
 ```diff
 ! Status;          .work in progress
-+ Issues;          .none!
+# Issues;          .unknown
 ! Next Update;     .v0.2
 # Current;         .v0.1
 
