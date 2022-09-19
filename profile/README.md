@@ -1,4 +1,4 @@
-## xhyabunny.org!
+# xhyabunny.org!
 owned by [@xhyabunny](https://github.com/xhyabunny)
 
 helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://github.com/boniikawaiidesu)
