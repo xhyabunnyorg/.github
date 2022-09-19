@@ -5,7 +5,7 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://xhyabunny.github.io/the404)
 
-## xhyabunny main hub - Status
+## [xhyabunny main hub](https://xhyabunny.github.io/main) - Status
 ```diff
 + Status;          .working!
 - Issues;          .search method
