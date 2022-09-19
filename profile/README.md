@@ -23,7 +23,7 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 ! Next Update;     .v0.2
 # Current;         .v0.1
 
-@@ Made by xhyabunny & sanicbtw @@
+@@ Made by xhyabunny @@
 ```
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://xhyabunny.github.io/the404)
 
