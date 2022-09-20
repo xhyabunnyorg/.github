@@ -21,8 +21,8 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 ```diff
 ! Status;          .work in progress
 # Issues;          .unknown
-! Next Update;     .v0.2
-# Current;         .v0.1
+! Next Update;     .v0.1
+# Current;         .alpha
 
 @@ Made by xhyabunny @@
 ```
