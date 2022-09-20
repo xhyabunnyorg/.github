@@ -17,7 +17,7 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 @@ Made by xhyabunny & sanicbtw @@
 ```
 
-## [xhyabunny api](https://xhyabunny.github.io/the404) - Status
+## [xhyapi (xhyabunny api)](https://xhyabunny.github.io/the404) - Status
 ```diff
 ! Status;          .work in progress
 # Issues;          .unknown
