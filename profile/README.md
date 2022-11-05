@@ -1,11 +1,13 @@
 
-
-# xhyabunny.org!
-owned by [@xhyabunny](https://github.com/xhyabunny)
-
-helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://github.com/boniikawaiidesu)
-
-### [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://xhyabunny.github.io/the404)
+  <div align="center">
+  <img style="width:120px"; src="https://camo.githubusercontent.com/c1f16cc083c5900daa538721d1f3ae64c758cb4dc615da66e449e21a4e651fff/68747470733a2f2f7868796162756e6e792e6769746875622e696f2f6d61696e2f6173736574732f786879612e706e67">
+  <h1>𝘹𝘩𝘺𝘢𝘣𝘶𝘯𝘯𝘺.𝘰𝘳𝘨</h1>
+  <h2>𝙾𝚠𝚗𝚎𝚍 𝚋𝚢 <a href="https://github.com/xhyabunny">@𝚡𝚑𝚢𝚊𝚋𝚞𝚗𝚗𝚢</a></h2>
+  <h2><a href="https://github.com/SanicBTW">@𝚂𝚊𝚗𝚒𝚌𝙱𝚃𝚆</a></h2>
+  <h2><a href="https://github.com/boniikawaiidesu">@𝚋𝚘𝚗𝚒𝚒𝚔𝚊𝚠𝚊𝚒𝚒𝚍𝚎𝚜𝚞</a></h2>
+  </div>
+  
+‎ [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://xhyabunny.github.io/the404)
 
 ## [xhyabunny main hub](https://xhyabunny.github.io/main) - Status
 ```diff
@@ -14,7 +16,7 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 ! Next Update;     .v3.01
 # Current;         .v3.0
 
-@@ Made by xhyabunny & sanicbtw @@
+@@ 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘹𝘩𝘺𝘢𝘣𝘶𝘯𝘯𝘺 & 𝘴𝘢𝘯𝘪𝘤𝘣𝘵𝘸 @@
 ```
 
 ## [xhyapi (xhyabunny api)](https://xhyabunny.github.io/the404) - Status
@@ -24,7 +26,7 @@ helpers; [@sanicbtw](https://github.com/SanicBTW), [@boniikawaiidesu](https://gi
 ! Next Update;     .v0.1
 # Current;         .alpha
 
-@@ Made by xhyabunny @@
+@@ 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘹𝘩𝘺𝘢𝘣𝘶𝘯𝘯𝘺 @@
 ```
 
 
