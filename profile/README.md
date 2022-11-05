@@ -13,7 +13,7 @@
 ```diff
 + Status;          .working!
 - Issues;          .search method
-! Next Update;     .v3.01
+! Next Update;     .v4.0
 # Current;         .v3.0
 
 @@ 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘹𝘩𝘺𝘢𝘣𝘶𝘯𝘯𝘺 & 𝘴𝘢𝘯𝘪𝘤𝘣𝘵𝘸 @@
