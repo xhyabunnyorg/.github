@@ -9,26 +9,5 @@
   
 ‎ [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://xhyabunny.github.io/the404)
 
-## [xhyabunny main hub](https://xhyabunny.github.io/main) - Status
-```diff
-+ Status;          .working!
-- Issues;          .search method
-! Next Update;     .v4.0
-# Current;         .v3.0
-
-@@ 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘹𝘩𝘺𝘢𝘣𝘶𝘯𝘯𝘺 & 𝘴𝘢𝘯𝘪𝘤𝘣𝘵𝘸 @@
-```
-
-## [xhyapi (xhyabunny api)](https://xhyabunny.github.io/the404) - Status
-```diff
-! Status;          .work in progress
-# Issues;          .unknown
-! Next Update;     .v0.1
-# Current;         .alpha
-
-@@ 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘹𝘩𝘺𝘢𝘣𝘶𝘯𝘯𝘺 @@
-```
-
-
 
 
