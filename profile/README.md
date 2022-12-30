@@ -9,7 +9,7 @@
   
 ## XHYABUNNY.ORG PROJECTS
   
-[![](https://img.shields.io/badge/@xhyabunny-Main%20Hub-blue.svg)](https://xhyabunny.tk)
+[![](https://img.shields.io/badge/@xhyabunny-Home%20Page-blue.svg)](https://xhyabunny.tk)
 [![](https://img.shields.io/badge/@xhyabunny-exIDE%20-purple.svg)](https://exide.tk)
 [![](https://img.shields.io/badge/@xhyabunny-xhyaOne%20-green.svg)](https://github.com/xhyabunny/xhyaOne_)
 
