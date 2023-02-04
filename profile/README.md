@@ -9,15 +9,19 @@
   
 ## XHYABUNNY.ORG PROJECTS
   
-[![](https://img.shields.io/badge/@xhyabunny-Home%20Page-blue.svg)](https://xhyabunny.tk)
-[![](https://img.shields.io/badge/@xhyabunny-exIDE%20-purple.svg)](https://exide.tk)
-[![](https://img.shields.io/badge/@xhyabunny-xhyaOne%20-green.svg)](https://github.com/xhyabunny/xhyaOne_)
+[![](https://img.shields.io/badge/@xhyabunny--purple.svg)](https://github.com/xhyabunny/)
+[![](https://img.shields.io/badge/-Home%20Page-5DC2FF.svg)](https://xhyabunny.netlify.app)
+[![](https://img.shields.io/badge/-exIDE%20-B109FF.svg)](https://ex-ide.netlify.app)
+[![](https://img.shields.io/badge/-xhyaOne%20-5DFF5D.svg)](https://github.com/xhyabunny/xhyaOne_)
+[![](https://img.shields.io/badge/-Meet%20Lilly!%20-EC76FF.svg)](https://meetlilly.netlify.app)
 
-[![](https://img.shields.io/badge/@SanicBTW-Psych%20Engine-orange.svg)](https://github.com/SanicBTW/FNF-PsychEngine-0.3.2h) 
-[![](https://img.shields.io/badge/@SanicBTW-the%20wrong%20way-FF1111.svg)](https://github.com/SanicBTW/the-wrong-way) 
+[![](https://img.shields.io/badge/@SanicBTW--purple.svg)](https://github.com/SanicBTW/)
+[![](https://img.shields.io/badge/-Psych%20Engine-FF6C00.svg)](https://github.com/SanicBTW/FNF-PsychEngine-0.3.2h) 
+[![](https://img.shields.io/badge/-the%20wrong%20way-FF1111.svg)](https://github.com/SanicBTW/the-wrong-way) 
 
-[![](https://img.shields.io/badge/@ChocoBonis-Quick%20Penguin-F34A7C.svg)](https://github.com/Chocobonis/Quick-Penguin) 
-[![](https://img.shields.io/badge/@ChocoBonis-BrickVox-33FFF6.svg)](https://github.com/Chocobonis/BrickVox-Dev) 
+[![](https://img.shields.io/badge/@ChocoBonis--F34A7C.svg)](https://github.com/Chocobonis/) 
+[![](https://img.shields.io/badge/-Quick%20Penguin-FF75F0.svg)](https://github.com/Chocobonis/Quick-Penguin) 
+[![](https://img.shields.io/badge/-BrickVox-33FFF6.svg)](https://github.com/Chocobonis/BrickVox-Dev) 
 
 
 
