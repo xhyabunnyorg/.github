@@ -1,10 +1,9 @@
 <div align="center">
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
-<br>
 <img src='https://xhyabunny.netlify.app/assets/favicon.webp' height='100px'/>
-  
-  <h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
-  <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is an organization focused on programming, 
+  <br>
+  <br>
+    <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is an organization focused on programming, 
   <br>it's a programmers team to help people with useful apps!
 <br>
 <h3>> check our <a href='https://xhyabunny.netlify.app' target=”_blank">main page!</a> (still on the work)</h3> 
