@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/-wideopen-3388FF.svg" alt="i1" />
 </a>
 <a href="https://github.com/xhyabunny/discord-rpc/releases/">
-    <img src="https://img.shields.io/badge/-discordrpc%20-6666FF.svg" alt="i2" />
+    <img src="https://img.shields.io/badge/-discordrpc-6666FF.svg" alt="i2" />
 </a>
-<a href="https://meetlilly.netlify.app">
-    <img src="https://img.shields.io/badge/-Meet%20Lilly!%20-00FF88.svg" alt="i3" />
+<a href="https://volatile.netlify.app">
+    <img src="https://img.shields.io/badge/-volatile-00FF88.svg" alt="i3" />
 </a>
 </div>
   
@@ -26,7 +26,7 @@
   
 [![](https://img.shields.io/badge/@xhyabunny--white.svg)](https://github.com/xhyabunny/)
 [![](https://img.shields.io/badge/@SanicBTW--white.svg)](https://github.com/SanicBTW/)
-[![](https://img.shields.io/badge/@ChocoBonis--white.svg)](https://github.com/Chocobonis/) 
+[![](https://img.shields.io/badge/@Neofoxxo--white.svg)](https://github.com/Neofoxxo/) 
 
 
 
