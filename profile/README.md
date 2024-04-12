@@ -7,5 +7,5 @@
 <br>
 <h3>> check out our <a href='https://xhyabunny.netlify.app' target=”_blank">main page!</a></h3> 
 <a href="https://discord.gg/Ktkrg7C2da">
-    <img src="https://img.shields.io/discord/777028166535479326?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
+    <img src="https://img.shields.io/discord/938344635305189409?3&color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
 </a>
