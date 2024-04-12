@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://xhyabunny.netlify.app/assets/favicon.webp' height='100px'/>
+<img src='https://xhyabunny.netlify.app/xybunny.svg' height='100px'/>
   <br>
   <br>
     <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is an organization focused on programming, 
