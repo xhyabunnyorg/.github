@@ -9,24 +9,3 @@
 <a href="https://discord.gg/Ktkrg7C2da">
     <img src="https://img.shields.io/discord/777028166535479326?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
 </a>
-<p></p>
-<br>
-<a href="https://wopen.netlify.app">
-    <img src="https://img.shields.io/badge/-wideopen-3388FF.svg" alt="i1" />
-</a>
-<a href="https://github.com/xhyabunny/discord-rpc/releases/">
-    <img src="https://img.shields.io/badge/-discordrpc-6666FF.svg" alt="i2" />
-</a>
-<a href="https://volatile.netlify.app">
-    <img src="https://img.shields.io/badge/-volatile-00FF88.svg" alt="i3" />
-</a>
-</div>
-  
-## Members of the team!
-  
-[![](https://img.shields.io/badge/@xhyabunny--white.svg)](https://github.com/xhyabunny/)
-[![](https://img.shields.io/badge/@SanicBTW--white.svg)](https://github.com/SanicBTW/)
-[![](https://img.shields.io/badge/@Neofoxxo--white.svg)](https://github.com/Neofoxxo/) 
-
-
-
